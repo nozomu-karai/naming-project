@@ -1,0 +1,854 @@
+name,description
+media-foundation,Repository for Windows Media Foundation related tools and samples
+tslib,Runtime library for TypeScript helpers.
+marmot,Marmot workflow execution engine
+Partner-Smart-Office,An open source toolkit empowering partners understand their customer’s security posture.
+ConfigNet,Official implementation for ECCV 2020 paper CONFIG: Controllable Neural Face Image Generation
+Windows-Containers,"This repository is offered for tracking features and issues with Windows Containers. The Windows Containers product team will monitor this repo in order to engage with our community and discuss questions, customer scenarios, or feature requests."
+pyre2,Python wrapper for RE2
+MyShuttle2,The project containing the code for the MyShuttle2 application that was showed at Connect 2016
+remotebuild,Server for building Cordova projects on a remote Mac
+Azure-Security-Center,ASC PowerShell Module
+VoTT,Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos. 
+ReverseDSC,Utility Library that Handles the Extraction of a DSC configuration script from an existing environment
+AI-Immersion-Workshop,"Workshop materials from the AI Immersion Workshop, for attendees to access and use"
+polymer-dart-log-controller,"A small polymer element which lets you control the global logging configuration, and can optionally log all statements to the console."
+azcode,Public roadmap for Azure Tools for VS Code.
+clang-1,Mirror of official clang git repository located at http://llvm.org/git/clang.  Updated every five minutes.
+applicationinsights-core-js,Core SDK layer for next version of application insights javascript SDK.
+continuity,A platform that makes it easy to blend react-native components into your native application.
+mysql,Automatically exported from code.google.com/p/google-mysql
+jsinterop-base,Utilities for GWT and J2CL to interact with JavaScript beyond JsInterop
+bonsai-decision-support-interface,This repository provides an example of a decision support deployment in python. The deployment interface connects to an exported brain and runs in a web browser.
+Project-Zap,A simple matchmaking platform to match furloughed workers with on-demand work in essential industries
+MCW-Internet-of-Things,MCW Internet of Things
+Cognitive-Custom-Speech-Service,Code and Sample for Microsoft's Custom Speech Service
+AzureSearch-MRC,Transformer-based machine reading comprehension in combination with Azure Cognitive Search
+powerbi-visuals-pulsechart,"Pulse chart shows a line chart annotated with key events. Each events can be selected to filter and cross highlight other visuals to reveal insights or help tell a story. Pulse chart supports animation so you can load your report and watch it play through key events, without user interaction. This visualization is perfect for story telling with data, especially the Power BI publish to web feature. Use it anywhere you need to draw attention to events that shaped a trend."
+OSSGadget,Collection of tools for analyzing open source packages.
+azure-ssl-configure,"This is a sample and template Azure Web Role project containing start up scripts to disable ssl 2.0, ssl3.0 and RC4 cipher suites, configure recommended cipher suite order for your windows azure service or any windows server to be securely service on TLS/SSL channels. This is highly important to protect the data-in-transit for users of Azure, as nowadays the internet is pretty heavily militarized."
+windows-dev-box-setup-scripts,Scripts to simplify setting up a Windows developer box
+binnavi,"BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code."
+prog-edu-assistant,An easy system to create autograding tests in Jupyter Python notebook and deploy to cloud.
+contributor-community-experiments,Tracking experiments and sharing best practices that we learn to build strong communities in our GitHub repos
+Loop-Sample-Hello-Android,Loop SDK sample hello app
+azure-synapse-spark-metrics,"Azure Synapse Spark Metrics provides easy metrics monitoring functions for Synapse services, especially, Apache Spark pool instances, by leveraging Prometheus, Grafana and  Azure APIs."
+kasane,A simple kubernetes deployment manager
+project-java-spring-container,Sample Java Spring web application
+cvelist,Pilot program for CVE submission through GitHub
+fbhaddock,Haskell Documentation Tool
+statsd,Simple daemon for easy stats aggregation
+ApplicationInsights-Python,Application Insights SDK for Python
+rappor,RAPPOR: Privacy-Preserving Reporting Algorithms
+svalbard,Svalbard is a distributed backup system for long-term protection of secret data.
+dorusu-js,This repository is no longer maintained. Please see https://github.com/grpc/grpc-node which is now aims to provide a pure js gRPC library as well.
+module-server,module-server
+InsiderDevTour18-Graph,Demo code for Graph session
+ClearScriptWorkerSample,A sample console application demonstrating a facility similar to Web Workers implemented with ClearScript.
+leprosy-skin-lesion-ai-analysis,This project aims to predict the probability of leprosy using skin lesion images and clinical data (as compared to the diagnosis of dermatologists).  This model is provided for research and development use only. The model is not intended for use in clinical decision-making or for any other clinical use and the performance of model for clinical use has not been established.
+js-example-fraud-score-basics,"Basic use of DeployR as a real-time, R analytics scoring engine."
+proto-lens,API for protocol buffers using modern Haskell language and library patterns.
+openrtb-doubleclick,"Utilities for DoubleClick Ad Exchange, including OpenRTB mapping, DoubleClick cryptography, metadata and validation"
+BotFramework-Emulator,A desktop application that allows users to locally test and debug chat bots built with the Bot Framework SDK.
+SQL_LogScout,"SQL LogScout allows you to collect diagnostic logs from your SQL Server system to help you and Microsoft technical support engineers (CSS) to resolve SQL Server technical incidents faster. It is a light, script-based, open-source tool that is version-agnostic."
+dynamics365smb-custom-help,This repository contains code for helping you configure a custom help system for Microsoft Dynamics 365 Business Central
+licensecheck,The licensecheck package classifies license files and heuristically determines how well they correspond to known open source licenses.
+Windows-Driver-Developer-Supplemental-Tools,Supplemental open-source components for use in developing device drivers for Windows.
+bobsql,"demos, scripts, samples, and code from the two bobs who work at Microsoft on SQL Server"
+rysim,RySim is a set of implementations of a simple SEIR simulation system
+nnfusion,A flexible and efficient deep neural network (DNN) compiler that generates high-performance executable from a DNN model description. 
+FeatureManagement-Dotnet,"Microsoft.FeatureManagement provides standardized APIs for enabling feature flags within applications. Utilize this library to secure a consistent experience when developing applications that use patterns such as beta access, rollout, dark deployments, and more."
+slngen,Visual Studio solution generator
+jni-bind,JNI Bind is a set of advanced syntactic sugar for writing efficient correct JNI Code in C++17 (and up).  
+CNTK-R,R bindings to the CNTK library
+kubernetes-learning-path,https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/
+basis_universal,Basis Universal GPU Texture Codec - please make contributions upstream at BinomialLLC
+vsts-device-flow-auth,Node.js package for Device Flow authentication to Visual Studio Team Services
+azure-cloudera-vm-metrics-logging,Azure Cloudera linux vm metrics logging with fluentd to azure storage
+Spark-SQL-Deployment-Manager,This project aims to create a way to deploy spark sql tables using CI/CD and focus just on table schema changes rather than how to deploy the changes.
+pxt-story-sprites,Utility sprite package containing background images for MakeCode Arcade
+hibernation-setup-tool,Tool to set up a Linux computer to hibernate
+MCW-Migrate-EDW-to-Azure-SQL-Data-Warehouse,MCW Migrate EDW to Azure SQL Data Warehouse
+release-util,CLI tool for querying release info from TFS and Azure DevOps
+vscode-brackets-keybindings,Brackets Keymap for Visual Studio Code
+devices-hardware-dev-center-manager,Class library used in invoking HTTP requests to the Hardware Dev Center dashboard API
+multiview-human-pose-estimation-pytorch,"This is an official Pytorch implementation of ""Cross View Fusion for 3D Human Pose Estimation, ICCV 2019"". "
+malmo,"Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment. --- For installation instructions, scroll down to *Getting Started* below, or visit the project page for more information:"
+automatic-graph-layout,A set of tools for graph layout and viewing
+page-timer,A personal time-tracking Chrome extension
+DSC-data-driven-deployment,This is a Proof of Concept Project on how a database solution can be utilized to manage DSC configurations. Metadata for the configuration is stored in JSON within the database so that it can be easily retrieved and deployed. Credentials are also stored securely in the database. The project consists of a database schema and a PowerShell module which has a series of functions.
+HoloLens-Art-Recommendations,Art Recommendations with the Microsoft HoloLens
+fluent-bit-azure-log-analytics,End-to-end walk through on using Fluent Bit on Kubernetes to log to Azure Log Analytics
+FarmBeats-UniversityCommunity,"The Microsoft FarmBeats University Community repo, helps educators and students learn about precision agriculture and Internet of Things (IoT) technologies."
+capillary,Capillary is a library to simplify the sending of end-to-end encrypted push messages from Java-based application servers to Android clients.
+jsonapi,jsonapi.org style payload serializer and deserializer
+oauth2l,"oauth2l (""oauth tool"") is a simple CLI for interacting with Google API authentication."
+DMF,Driver Module Framework
+mvp,Microsoft MVP Program GitHub Repository
+BaselineManagement,Conversion tool used to Convert Group Policy baselines into DSC
+pxt-editor-extension-sample,Sample editor extension for PXT (MakeCode)
+exposure-notifications-android,Exposure Notifications Android Reference Design
+traceur-compiler,Traceur is a JavaScript.next-to-JavaScript-of-today compiler
+jacdac-cli,Command line interface for Jacdac
+task-scheduler,Schedule tasks in a monorepo
+webpack-project-references-alias,Provide alias to redirect import to project references to source files.
+scsmperftestharness,SCSM Perf Test Harness
+ADU,Appliance Diagnostic Utility (ADU) for Analytics Platform System (APS)
+AzureStreamAnalyticsInVSCode,Azure Stream Analytics In VSCode
+amp-pwa-demo,"A simple, dependency-free blog that uses a Progressive Web App (PWA) to show Accellerated Mobile Pages (AMP)."
+vscode-azurestorage,Azure Storage extension for VS Code
+LUIS-Samples,Samples for the Language Understanding Intelligent Service (LUIS)
+MixedReality-QRCode-Sample,A single repository of Mixed Reality samples in Unity.
+Nova,Nova: Recursive SNARKs without trusted setup
+topologic,"A python library for intelligently building networks and network embeddings, and for analyzing connected data."
+pubkeystore,SSH Pubkey Registry
+VSTS-Docker-Preview,Preview repo for Docker extension
+openbmc,OpenBMC is an open software framework to build a complete Linux image for a Board Management Controller (BMC).
+Microsoft.Shared.Dna.Json,Windows Data and Analytics Shared Code - JSON Processing
+speaker-id,This repository contains audio samples and supplementary materials accompanying publications related to the speaker-id team at Google.
+landcover-orinoquia,"Land cover mapping of the Orinoquía region in Colombia, in collaboration with Wildlife Conservation Society Colombia. An #AIforEarth project"
+rustcxx,rustcxx: Using C++ from Rust made easy
+Zen,A library that simplifies building verification tools in .NET
+earth-day-challenge,Microsoft Earth Day Challenge 2021
+slo-generator,"SLO Generator is a tool to compute SLIs, SLOs, Error Budgets and Burn rate and export an SLO report to supported exporters."
+MLFlow.NET,MLFlow.NET is a .NET Standard 2.0 based wrapper for the REST based MLFlow server API (https://mlflow.org/). The SDK package allows you to call the MLFlow server API from .NET apps. A sample use case is writing a .NET Core app that validates a machine learning model or API and stores the result in MLFlow
+winwithappplatpoc,Repo of the Win with App Platform technical skilling workshop
+PowerBI-visuals-PivotSlicer,"Pivot Slicer provides a unified 'list of lists' approach to viewing, navigating, and slicing data"
+vscode-test,Testing utility for VS Code extensions
+ExaStore,K-V storage engine with low memory cost and low write amplification
+ngconf2015demo,TodoMVC application demo for ng-conf 2015
+backfill,A JavaScript caching library for reducing build time
+parallel-prettier,Concurrent prettier runner
+IoT-Plug-and-Play-Workshop,Repository for IoT Plug and Play Workshop
+android-arscblamer,"ArscBlamer is a command-line tool that can parse an Android app's resources.arsc file and extract useful, actionable information about its contents"
+Windows-AppConsult-Tools-IAPWrapper,In-App-Purchase API-Wrapper for Desktop Bridge
+sarplus,pronounced sUrplus as it's simply better if not best!
+cbortree,"CborTree: A Java Library for decoding, manipulating, and encoding CBOR data items."
+WindowsDNSServerConfig,PROTOTYPE EXAMPLE
+zMonitor,Azure Multi-subscription/tenant Monitoring Solution
+Application-Insights-Workbooks,Templates for Azure Monitor Workbooks
+CosmosDB-Solution-Accelerator-CosmosDB-Helper,This Solution Accelerator is Azure Cosmos DB Helper library that enables developers who want to use Azure Cosmos DB without any serious learning curve. Developers can leverage Azure Cosmos DB SQL / Mongo APIs with the same development experiences with LINQ.
+Microsoft-Store-Services,Microsoft.StoreServices library for authenticating with and using the Microsoft Store Services
+conversationlearner,Contains all packages for running ConversationLearner bots.
+vscode-dts,CLI utility for downloading vscode.d.ts and vscode.proposed.d.ts
+Intune-Win32-App-Packaging-Tool,A tool to wrap Windows Classic App and then it can be uploaded to Intune
+alguidelines,Best Practices and Design Patterns for the AL Language
+openpaimarketplace,A marketplace which stores examples and job templates of openpai. Users could use openpaimarketplace to share their jobs or run-and-learn others' sharing job.
+planetary-computer-containers,Container definitions for the Planetary Computer
+vscode-pwa-analyzer,Log viewer for https://github.com/microsoft/vscode-pwa
+PySiamTracking,PySiamTracking project provides a flexible and effective framework that supports mainstream siamese-network-based trackers.
+Service-Fabric-AppDRTool,The Service Fabric Application Disaster Recovery Tool is a disaster recovery tool for Service Fabric clusters which allows users to recover their primary cluster data in the event of a disaster. SFAppDRTool allows the user to backup their primary cluster on a secondary cluster via periodic backup-restore on secondary cluster of your backups on primary cluster.
+gin-config,Gin provides a lightweight configuration framework for Python
+edge-diagnostics-launch,Launcher for Microsoft Edge Diagnostics Adapter.
+DesktopBridgeToUWP-Samples,This repo contains the samples that demonstrate the usage patterns for the Desktop Conversion extensions.
+Essex-PowerBI-visuals-base,Experimental utilities for PowerBI Custom Visualizations
+SA-Siam,Deep Learning Based Real-Time Tracking
+source-map-compare,A tool for analyzing and comparing JavaScript bundles
+Search4Code,Web queries dataset for code search
+Sora,"The Microsoft Research Software Radio (Sora) is a programmable software radio platform based on the commodity multicore CPU in a host PC. The SDK provides the drivers, user mode 802.11a/b/n samples, and a debug plot tool."
+shaka-player,JavaScript player library / DASH & HLS client / MSE-EME player
+VQ-Diffusion,Official implementation of VQ-Diffusion
+FluidNet,Accelerating Eulerian Fluid Simulation With Convolutional Networks
+UVAtlas,UVAtlas isochart texture atlas
+qlib,"Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies. An increasing number of  SOTA Quant research works/papers are released in Qlib."
+corgi,C++ entity-component system
+gazoo-device,"Gazoo Device Manager is a framework for testing smart devices. It is used for device management and handles device communication, logging, log event filtering, and device health checks. Device controllers implement a common interface which allows GDM tests to be device-agnostic. GDM has a CLI to make common device interactions easy."
+redhat-mw-cloud-quickstart,Red Hat JBOSS Quickstart templates
+AppConsult-WinAppsModernizationWorkshop,Windows Apps modernization workshop
+azure-pipelines-tool-lib,Lib for creating CI/CD tool installer tasks in Azure Pipelines
+clarity-gtm-template,This is a Google tag manager template for Microsoft Clarity tag
+PerthCSA,Perth Cloud Solution Architect Community
+vOW4SIKE,The vOW4SIKE project provides C code that implements the parallel collision search algorithm by van Oorschot and Wiener (vOW). The algorithm can be instantiated for generic collision finding and for solving the supersingular isogeny problem in the context of the Supersingular Isogeny Key Encapsulation protocol SIKE.
+PathPicker,"PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands."
+powerbi-visuals-utils-colorutils,color utility interfaces for creating powerbi custom visuals
+fugue,A decoupled transaction component providing transaction processing for applications
+adx-query-charts,Draw charts from Azure Data Explorer queries
+project-OCEAN,Project OCEAN is an open science collaboration focused on understanding the open source ecosystems creating datasets that enable research and forming a clear understanding of the state of open source communities.
+CvT,This is an official implementation of CvT: Introducing Convolutions to Vision Transformers.
+painless-config,Low friction library for application configuration.
+Mobius,C# and F# language binding and extensions to Apache Spark
+SyncTasks,An explicitly non-A+ Promise library that resolves promises synchronously
+aistreamer,Google AIStreamer
+testfx-docs,Docs for MSTest V2 test framework
+checkedc-clang,This repo contains a version of clang that is being modified to support Checked C.  Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe.
+qTESLA-Library,"qTESLA Library, an optimized implementation of the post-quantum lattice-based digital signature scheme qTESLA."
+Azure-Solution-Accelerator-Customer-Complaint-Management,Solution accelerator for Customer Complaint Management
+vsts-rm-documentation,VSTS Release Management Documentation
+DirectX-Headers,Official DirectX headers available under an open source license
+StorScore,A test framework to evaluate SSDs and HDDs
+Snip-Insights,"Snip Insights, a Microsoft Garage project"
+googlemock,Google Mock
+DiceWeb,"Sample apps, games and other content for use in testing the Microsoft Partner Center."
+vSlice,A tool for viewing and slicing hierarchical data. 
+surface-duo-oss-platform.vendor.qcom-opensource.wlan.qcacld-3..0,Surface Duo OSS platform.vendor.qcom-opensource.wlan.qcacld-3..0
+spring-todo-app,Spring Boot TODO app
+gdata-java-client,Automatically exported from code.google.com/p/gdata-java-client
+service-fabric-client-dotnet,.NET client library for Service Fabric
+MetricSystem,Suite of libraries and applications for collecting high volume performance counter data
+Windows-AppConsult-XAMLIslandsLab,Lab for modernizing Desktop app with XAML Islands.
+python-sample-vs-cpp-extension,This sample is the end product for the walkthrough on https://docs.microsoft.com/en-us/visualstudio/python/working-with-c-cpp-python-in-visual-studio
+lightgbm-benchmark,Benchmark tools for LightGBM
+otdd,Optimal Transport Dataset Distance
+microsoft-ui-xaml,Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
+PTVS-Samples,Sample projects for PTVS
+winfile,Original Windows File Manager (winfile) with enhancements
+VisualStudioUninstaller,Visual Studio Uninstallation sometimes can be unreliable and often leave out a lot of unwanted artifacts. Visual Studio Uninstaller is designed to thoroughly and reliably remove these unwanted artifacts.
+cloud-scanner,Cloud Scanner is a cloud agnostic tool that extracts cloud based resources from cloud providers like Azure and ingests them into a configured data source for further processing.
+Focal-Transformer,"Official code for our NeurIPS 2021 Spotlight ""Focal Self-attention for Local-Global Interactions in Vision Transformers"""
+AnanthaRekha,Generates varieties of images of randomized but semantically correct technical diagrams like flow charts and state diagrams. These images can be used to train NNs that perform image segmentation tasks.
+AzureBotServices-scenarios,Samples for Common Bot Framework Scenarios
+WastedRendersDetector,Tool facilitating the debugging of wasted react renders
+WindowsServerUpdateServicesConfig,Example containing Desired State Configuration script to demonstrate provisioning and configuring a WSUS instance.
+vscode-JSON.tmLanguage,TextMate grammar for JSON as used in Visual Studio code
+pytype,A static type analyzer for Python code
+abpackage,An R package for AB testing leveraging pre-period information
+libprotobuf-mutator,Library for structured fuzzing with protobuffers
+az-ml-realtime-score,Architecture for deploying real-time scoring of machine learning models using Azure Machine Learning
+AppCenter-Test-Appium-Java-Extensions,Extension library to run Appium Java tests on Visual Studio App Center
+FluidStorybook,StorybookJS integration with the Fluid Framework
+o365tosplunkdataimportapp,The Office 365 data Splunk app enables data analysts and IT administrators to import the data they need to get their organization more productive and finally makes Office 365 data available to third party BI platforms 
+makecode-holiday,Holiday card repository - pxt target
+OpenCloudNinjaSloth,Meet Brady!
+MCW-App-modernization,MCW App modernization
+syzygy,Syzygy Transformation Toolchain
+metadata-translator,"Metadata Translator helps to streamline the localization of Power BI data models. The tool can automatically translate the captions, descriptions, and display folder names of tables, columns, measures, and hierarchies by using the machine translation technology of Azure Cognitive Services. It also lets you export and import translations for convenient bulk editing in Excel or a localization tool."
+kleaver,Kleaver is an experimental tool for managing out-of-tree kernel modules.
+mobly,E2E test framework for tests with complex environment requirements.
+clif,Binding generator to wrap C++ for Python using LLVM.
+ApplicationInsights-Go,Microsoft Application Insights SDK for Go
+certificate-maker,An experimental tool for turning HTML templates into PDF files.
+fluentui-apple,UIKit and AppKit controls for building native Microsoft experiences
+vscode-mongodb,MongoDB extension for Visual Studio Code
+Machine-Learning-Patient-Risk-Analyzer-SA,"Machine Learning Patient Risk Analyzer Solution Accelerator is an end-to-end (E2E) healthcare app that leverages ML prediction models (e.g., Diabetes Mellitus (DM) patient 30-day re-admission, breast cancer risk, etc.) to demonstrate how these models can provide key insights for both physicians and patients. Patients can easily access their appointment and care history with infused cognitive services through a conversational interface. In addition to providing new insights for both doctors and patients, the app also provides the Data Scientist/IT Specialist with one-click experiences for registering and deploying a new or existing model to Azure Kubernetes Clusters, and best practices for maintaining these models through Azure MLOps."
+patrick,Parameterized testing in R is kind of cool!
+hdrnet,"An implementation of 'Deep Bilateral Learning for Real-Time Image Enhancement', SIGGRAPH 2017"
+Angara.Serialization,An extendible library for serialization of an arbitrary objects to JSON format extended with type information to facilitate interoperability between .NET and JavaScript platforms.
+fhir-examples,Usage Examples for github.com/google/fhir
+testauth,testing authentiction
+vcc,A static verifier for concurrent C programs
+PowerBI-visuals-WordCloud,Repo for Power BI Word Cloud custom visual
+play-services-plugins,Plugins to help with using Google Play services SDK.
+SuperPod,Sample Code and Helpful Snippets from the GTT SuperPod Community
+assortment-quality-for-google-shopping,Assortment Quality is an open-source solution that gives you an overview of the product and brand coverage of your Google Merchant center account.
+pSDCA,primal SDCA: a variant of SDCA with primal gradient update (conjugate-free)
+MSIX-Labs,"MSIX Labs is a collection of tutorials for customers that are in interested in creating, packaging, distributing and installing MSIX packages. "
+nav-arm-templates,ARM (Azure Resource Manager) templates for Microsoft Dynamics NAV
+ml-wrappers,A unified wrapper for various ML frameworks - to have one uniform scikit-learn format predict and predict_proba functions.
+virtual-events,Reusable resources for virtual events.
+VSExtensibility,"A repo for upcoming changes to extensibility in Visual Studio, the new extensibility model, and language server protocol."
+nokia-x-in-app-payment-samples,This project contains the simple examples demonstrating how to implement and port an application to utilise Nokia In-App Payment on Nokia X software platform.
+BotFramework-Composer-Nightlies,Nightly releases of Bot Framework Composer (https://github.com/microsoft/BotFramework-Composer)
+Semantics-Aligned-Representation-Learning-for-Person-Re-identification,"This is an implementation of AAAI'20 paper ""Semantics-Aligned Representation Learning for Person Re-identification"".  We leverages dense semantics to address both the spatial misalignment and semantics misalignment challenges in person re-identification."
+nvidia_libs_test,"Tests and benchmarks for cudnn (and in the future, other nvidia libraries)"
+tracing-etw,Emit ETW events in tracing-enabled Rust applications.
+ProphetNet,"Code for EMNLP20 paper: ""ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training"""
+azure-sql-security-sample,Sample application that utilizes an azure database which showcases security features of Azure SQL DB (V12).
+moodle-filter_oembed,oEmbed Filter for Moodle
+component-detection,Scans your project to determine what components you use
+dynamics365-virtualagent-samples,Code samples and documentation showing how to use the Microsoft Dynamics 365 Virtual Agent for Customer Service APIs.
+initializr,A web-based quickstart generator for Spring projects
+ELL-models,A repository of ELL models
+ODAResources,Additional resources for On-Demand Assessments (https://docs.microsoft.com/en-us/services-hub/health/index) 
+TypeScript-Sublime-Plugin,"IO wrapper around TypeScript language services, allowing for easy consumption by editor plugins"
+playwright,"Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. "
+prefetchalyzer,Identify impactful pre-fetch and pre-cache opportunities across web pages in user flow by analyzing HAR logs
+lvmd,LVMd – the gRPC Wrapper for LVM 
+highway,"Performance-portable, length-agnostic SIMD with runtime dispatch"
+azure-resource-provider-sdk,Resource providers that integrate into the Azure Resource Manager control plane must strictly follow the RP API v2.0 contract. The Azure Resource Provider SDK is a .NET framework and tools to help RP authors get up and running quickly and to avoid RP API compliance issues where possible.
+maker.js,📐⚙ 2D vector line drawing and shape modeling for CNC and laser cutters.
+neural-logic-machines,Implementation for the Neural Logic Machines (NLM).
+movie-db-java-on-azure,Sample movie database app built using Java on Azure
+vim-jsonnet,Jsonnet filetype plugin for Vim.
+cxx-std-draft,C++ standards drafts
+powerquery-language-services,Library to provide intellisense and other language services for the Power Query / M language.
+ChromeBrowserEnterprise,Google Chrome Browser Cloud Management APIs using Postman collections
+detectorgraph,"Strongly-typed, dependency based application framework for code/data separation with dependency injection and data passing."
+CSEDevOps,Azure DevOps extensions from CSE DevOps team
+navc,C code indexer using language semantic from clang
+refreshing-config,Configuration library that can dynamically refresh configuration values
+AcademicContent,"Free tech resources for faculty, students, researchers, life-long learners, and academic community builders for use in tech based courses, workshops, and hackathons."
+DevSkim-Action,The GitHub Action for DevSkim
+magic-github-proxy,An access-limiting stateless GitHub API Proxy
+Broadcast-Development-Kit-Web-UI,Sample UI for controlling the Teams Broadcast Extension
+charted,Visualization toolkit for Dart language
+lyra,A Very Low-Bitrate Codec for Speech Compression
+SmartHotel360-SentimentAnalysis,SmartHotel360 Sentiment Analysis App
+alligator2,A sample integration between the Google My Business API and the Cloud Natural Language API
+openshift-container-platform-playbooks,Playbooks for deploying OpenShift Container Platform in Azure
+ReverseDNSGeolocation,Reverse DNS Geolocation - Determine location of routers from their reverse DNS hostnames
+sails-hook-federalist-ms,Sails.js installable hook for Federalist (https://github.com/18f/federalist) to support Windows and Microsoft Azure.
+MCW-Enterprise-ready-cloud,MCW Enterprise-ready cloud
+poultry-cafos,This repo contains code for detecting poultry barns from high-resolution aerial imagery and an accompanying dataset of predicted barns over the United States.
+surface-duo-app-samples,Sample apps built for the Microsoft Surface Duo dual-screen Android device
+navcontainerhelper,"Official Microsoft repository for BcContainerHelper, a PowerShell module, which makes it easier to work with Business Central Containers on Docker."
+opuscpp,c++ wrapper around libopus
+ignite-learning-paths-training-msi,"Microsoft Ignite Learning Path, Train the Trainer materials: Migrating Server Infrastructure "
+CSS-Exchange,Exchange Server support tools and scripts
+Install-MCASSiemAgent.ps1,"Script to, on a 64-bit Windows host (server or workstation), automatically install the latest Java JRE and the latest MCAS SIEM Agent"
+antares,"Antares: an automatic engine for multi-platform kernel generation and optimization. Supporting CPU, CUDA, ROCm, DirectX12, GraphCore, SYCL for CPU/GPU, OpenCL for AMD/NVIDIA, Android CPU/GPU backends."
+vscode-webview-ui-toolkit-samples,A collection of sample extensions built with the Webview UI Toolkit for Visual Studio Code.
+ApplicationInsights-dotnet-logging,.NET Logging adaptors
+Ceruleoscope,Application Insights Availability Testing with Playwright on Azure Functions
+VMNetworkAdapter,DSC Resources used to configured virtual NIC settings - Check https://aka.ms/Validate-DCB for more information
+snmalloc,Message passing based allocator
+differentially-private-ngram-extraction,Implementation of Differentially Private n-gram Extraction  (DPNE) paper
+PowerStig,STIG Automation 
+vssnapshotdebugger-docker,Contains files for building ASP.NET Core runtime Docker images with Visual Studio Snapshot Debugger support.
+banner-settings-ado-extension,Banner Settings provides a settings pane under Organization Settings to allow Project Collection Administrators to show sitewide banners. Alert your Azure DevOps users to upcoming changes or events without sending out mass emails. Compatible with Azure DevOps Services and Server.
+grpc-kapt,Annotation driven gRPC clients & servers in Kotlin
+HDInsightVSExtension,This is for issue/feedback tracking on HDInsight Visual Studio Extension
+google-drive-shell-extension,Google Drive Shell Extension is a Shell Namespace Extension for Microsoft Windows. It creates a virtual folder on My Computer that allows the user to interact with his Google Drive account transparently through Windows Explorer.
+grpc_bench,Various gRPC benchmarks
+MCW-Leveraging-Azure-Digital-Twins-in-a-supply-chain,Leveraging Azure Digital Twins in a supply chain
+vscode-extension-vscode,The vscode NPM module. Deprecated in favor of @types/vscode and vscode-test.
+FASTER,"Fast persistent recoverable log and key-value store + cache, in C# and C++."
+redex,A bytecode optimizer for Android apps
+vert-papers,"This repository contains code and datasets related to entity/knowledge papers from the VERT (Versatile Entity Recognition & disambiguation Toolkit) project, by the Knowledge Computing group at Microsoft Research Asia (MSRA)."
+TailwindTraders-Backend,Tailwind Traders Backend Services
+UDE,USB Device Emulation Samples
+vscode-java-pack,VS Code extensions for Java developers.
+openjdk-aarch64,Microsoft builds of OpenJDK for AArch64 Platforms
+service-fabric-observer,Highly configurable and extensible resource usage watchdog service that is designed to be run in Service Fabric Windows and Linux clusters.
+SandDance,"Visually explore, understand, and present your data."
+u2f-ref-code,U2F reference implementations
+azure-devops-extension-yeoman-generator,Generates a basic Azure DevOps extension with support for hot reload and debugging in VS Code
+Cognitive-EventKnowledge-Windows,Windows SDK for the Microsoft Event Knowledge API
+openr,Distributed platform for building autonomic network functions.
+react-native-experimental-navigation,ExperimentalNavigation framework for react-native used in reactxp
+go-cloud,The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
+wiql-to-odata-ado-extension,Translates a WIQL query to OData (for the Analytics extension) in Azure DevOps
+OpenKP,"Automatically extracting keyphrases that are salient to the document meanings is an essential step to semantic document understanding. An effective keyphrase extraction (KPE) system can benefit a wide range of natural language processing and information retrieval tasks. Recent neural methods formulate the task as a document-to-keyphrase sequence-to-sequence task. These seq2seq learning models have shown promising results compared to previous KPE systems The recent progress in neural KPE is mostly observed in documents originating from the scientific domain. In real-world scenarios, most potential applications of KPE deal with diverse documents originating from sparse sources. These documents are unlikely to include the structure, prose and be as well written as scientific papers. They often include a much diverse document structure and reside in various domains whose contents target much wider audiences than scientists. To encourage the research community to develop a powerful neural model with key phrase extraction on open domains we have created OpenKP: a dataset of over 150,000 documents with the most relevant keyphrases generated by expert annotation."
+CodeBERT,CodeBERT
+image-rebase,Remotely rebase container images
+promises,Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.
+language-jsonnet,Jsonnet language support for the Atom text editor
+KqlTools,A command line tool to explore real-time streams of events.
+qpp,Querypoint Debugging Prototype
+react,"A declarative, efficient, and flexible JavaScript library for building user interfaces."
+AzureADGraphApps,These are the applications which are using Azure AD Graph permissions in your tenant. 
+Git-Credential-Manager-for-Windows,"Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication."
+macops-molcodesignchecker,Simple Objective-C code signature validation
+data-science-sandbox,Azure-hosted sandbox environment to enable third-parties to collaborate on data science solutions over protected data sets
+IoT-For-Beginners,"12 Weeks, 24 Lessons, IoT for All!"
+deepmac,Project website for https://git.io/deepmac.
+rushstack.io-website,GitHub Pages website for https://rushstack.io
+UnifiedRedisPlatform.Core,Unified Redis Platform is a solution for consolidating multiple Redis Caches to a single cluster. The cluster can be shared by multiple apps but provides proper isolation to each application. This is the client-side core SDK for Unified Redis Platform.
+windows-container-networking,Container networking plugins for Windows containers
+satcheljs,Satchel is a data store based on the Flux architecture.  It is characterized by exposing an observable state that makes view updates painless and efficient.
+azure-pipelines-tasks,Tasks for Azure Pipelines
+VS-code-Azure-Blockchain-Hyperledger-Fabric,A VS code extension has been built to help customers carry out the various chaincode activities on their Hyperledger Fabric network running on Azure Blockchain Service
+tf-gnn-samples,TensorFlow implementations of Graph Neural Networks
+yapf,A formatter for Python files
+superbench-results,SuperBench benchmark results collection.
+coding-pack-for-python,Documentation and issues for the VS Code Python installer.
+Windows-appsample-networkhelper,A sample library that demonstrates UWP networking APIs.
+kctf,"kCTF is a Kubernetes-based infrastructure for CTF competitions. For documentation, see"
+WebTemplateStudio,Microsoft Web Template Studio quickly builds web applications using a wizard-based UI to turn your needs into a foundation of best patterns and practices
+AIforEarth-API-Platform,"The AI for Earth API Platform is a distributed infrastructure designed to provide a secure, scalable, and customizable API hosting, designed to handle the needs of long-running/asynchronous machine learning model inference. It is to be used with the AI For Earth API Framework (https://github.com/microsoft/AIforEarth-API-Development)."
+peek,"Azure Usage/Billing Analytics Solution for EAs, CSPs and Direct Subscriptions."
+AzureTRE,An accelerator to help organizations who want to build Trusted Research Environments on Azure.
+python-sklearn-classifier-cookiecutter,Cookiecutter template for testing Python scikit-learn classifiers.
+cartpole-py,A cart and pole simulator.
+RepPoints,Represent Visual Objects by Point Sets
+vscode-winsta11er,Windows Store Installer for VS Code
+streamer,Take your presentation skillz to the next level
+vscode-npm-scripts,VSCode extension for running npm-scripts and validating the package.json files.
+PowerBI-extensibility-text-utility,A utility for doing speedy text measurement
+methods2test,methods2test is a supervised dataset consisting of Test Cases and their corresponding Focal Methods from a set of Java software repositories
+OSPO-Courses,"Courses Microsoft's OSPO has built for our internal open source community focused on empowerment, trust, belonging and purpose"
+FetchClimate,"FetchClimate is a fast, free, intelligent climate data retrieval service that gives you the climate data you need. With FetchClimate, an Azure web service, you can retrieve data for any geographical region, at any grid resolution—global, continental, a few kilometers—and for any range of years, days within the year, or hours within the day. FetchClimate automatically selects the most appropriate data sources and can return information about the uncertainty of the data sources used. You can enable others to retrieve the same data by sharing a URL for your query."
+cm360-audience-manager,Google Apps Script code for managing Campaign Manager 360 Audience Lists in bulk and at scale.
+AX2012ARMTemplates,ARM deployment templates for AX 2012 R3 - High Availability Environments. 
+phone-info,"An example application for retrieving both static and dynamic properties of a Windows Phone device. The methods demonstrated by this app can be used for adapting your application to wider range of phone models; If a phone does not support a certain non-vital feature of your application, you can gracefully adapt by hiding that feature dynamically."
+cartpole-java,demonstrates connecting an example simulator in Java using the swagger generated client
+Azure-PaaS-ChefClient,Azure PaaS/Chef Client bootstrapper
+genalog,"Genalog is an open source, cross-platform python package allowing generation of synthetic document images with custom degradations and text alignment capabilities."
+PlanetaryComputerExamples,Examples of using the Planetary Computer
+gctoolkit-testdata,Data files needed for testing microsoft/gctoolkit
+VSLinux,VS extension for C++ Linux development
+gfw-deployments,Scripts and tools created by the Google For Work Team. (Contributions Encouraged!)
+Win2DMazeGame,A sample game for Windows 10 written in C# using Win2D
+libgep,"Generic, Protobuf-Based Client-Server Protocol"
+AEC-Challenge,AEC Challenge
+vscode-azurearmtools,Azure Resource Manager Tools for Visual Studio Code
+singleshotpose,"This research project implements a real-time object detection and pose estimation method as described in the paper, Tekin et al. ""Real-Time Seamless Single Shot 6D Object Pose Prediction"", CVPR 2018. (https://arxiv.org/abs/1711.08848)."
+redgrep,♥ Janusz Brzozowski
+skype-sync,Skype Sync SDK allows developers to easily create collaborative addins for Skype Interviews
+project-python-flask-container,sample python flask web application
+acme,A simple ACME command line tool without 3rd party deps!
+Cluster-Partition-Rebalancer-For-Kafka,Cluster Partition Rebalancer For Kafka is a tool that runs in the background on Kafka brokers and lets them move partitions across brokers to maintain a good balance of partitions per broker.
+malmo-challenge,Task and example code for the Malmo Collaborative AI Challenge
+py-html-contextual-escaping,Automatically exported from code.google.com/p/py-html-contextual-escaping
+BikeSharing360_BackendServices,BikeSharing360 Demo Apps Backend Services
+m365-physical-badging-connector-sample-scripts,"This repository includes sample scripts for pushing organization's physical badging records, to be consumed by Microsoft's Insider Risk Management compliance solution."
+DevAzureCiv,GitHub workshop
+transitfeed,"A Python library for reading, validating, and writing transit schedule information in the GTFS format."
+azure-devops-go-api,This repository contains Go APIs for interacting with and managing Azure DevOps.
+azureimds,Azure Instance Metadata Samples
+AzureDevOps-WSJF-Extension,Sample work item form extension that auto calculates WSJF (weighted shortest job first) per work item and stores it in a work item field
+fboss,"Facebook Open Switching System
+
+Software for controlling network switches."
+xbox-live-api,"This repo contains the C++ and WinRT version of the Microsoft Xbox Live Service API (XSAPI) that enables game developers to access Xbox Live. To get access to the Xbox Live service, you can join the Xbox Live Creators Program at https://aka.ms/xblcp, or apply to the ID@Xbox program at http://www.xbox.com/en-us/Developers/id"
+UwpVpnPluginSample,Demonstrates C# and C++ code to build a Windows 10 UWP VPN app that can be published to the Microsoft Store.
+azure-devops-dotnet-samples,.NET/C# samples for integrating with Azure DevOps Services and Azure DevOps Server
+redux-dag-history,This component is a Redux middleware that implements history as a directed-acyclic-graph (DAG) as opposed to the traditional stack-based implementation.
+vscode-remote-wsl-recommender,VS Code extension that recommends using the Windows Subsystem for Linux (WSL) and the Remote WSL extension.
+AzureSQLDataSyncHealthChecker,"This PowerShell script will check if all the metadata of a hub and member is in place and also validate the scopes against the information we have on the sync metadata database (among other validations). This script will not make any changes, will just validate data sync and user objects. It will also gather some useful information for faster troubleshooting."
+Azure-Analytics-and-AI-Engagement,Azure Analytics and AI Engagement
+dana,Test/benchmark regression and comparison system with dashboard
+identity-dev-lab,"Set of sample projects to facilitate learning Azure AD integration in .Net, .Net Core, Java, and Angular."
+prv_accountant,A fast algorithm to optimally compose privacy guarantees of differentially private (DP) mechanisms to arbitrary accuracy.
+cppgraphqlgen,C++ GraphQL schema service generator
+glider_tasklet_crawler,"An automated and scalable approach to generate tasklets from a natural language task query and a website URL. Glider does not require any pre-training. Glider models tasklet extraction as a state space search, where agents can explore a website’s UI and get rewarded when making progress towards task completion. The reward is computed based on the agent’s navigating pattern and the similarity between its trajectory and the task query."
+sqlworkshops-k8stobdc,Kubernetes Course for SQL Server Big Data Clusters
+VSDebugAdapterHost,Visual Studio Debug Adapter Host
+vscode-mezzurite,VS-code extension to improve the integration with Mezzurite experience
+sarif-sdk,".NET code and supporting files for working with the 'Static Analysis Results Interchange Format' (SARIF, see https://github.com/oasis-tcs/sarif-spec)"
+vscode-react-native,VSCode extension for React Native - supports debugging and editor integration
+iqsharp,Microsoft's IQ# Server.
+rocksdb,"A library that provides an embeddable, persistent key-value store for fast storage."
+python_portpicker,A module to find available network ports for testing.
+HealthyCountryAI,An adaptable framework using AI to monitor ecosystem health
+dotnet-computevirtualization,Sample class library for interfacing with Windows host compute service.
+azure-pipelines-ephemeral-agents,Use Ephemeral agents to deploy to private azure resources  in a virtual network
+MAB,R package for Multi-Armed Bandit Simulation Study
+launchapp-tag-maker,LaunchApp Tag Maker allows you to ceate NFC tags which can launch any apps available at ​http://www.windowsphone.com/ or apps that you installed youself. 
+AutoBrewML,With AutoBrewML Framework the time it takes to get production-ready ML models with great ease and efficiency highly accelerates. 
+PQCrypto-LWEKE,FrodoKEM: Learning with Errors Key Encapsulation. FrodoKEM is a family of key-encapsulation mechanisms that are designed to be conservative yet practical post-quantum constructions whose security derives from cautious parameterizations of the well-studied learning with errors problem.
+Unity-Xaml-Sample,Unity sample project showing a XAML webview and interaction with a Unity application.
+PL-DNS-Proxy,NGINX DNS Proxy
+docker,Docker - the open-source application container engine
+gmail-oauth2-tools,Tools and sample code for authenticating to Gmail with OAuth2
+Build-Docker-Provider,Superproject for Docker-Provider Project
+closure-linter,Automatically exported from code.google.com/p/closure-linter
+adfsWebCustomization,A repository of useful Web Customizations for Active Directory Federation Services 
+EXOAdminWorkshop,Scripts used in WorkshopPLUS: Microsoft 365 Exchange Online: Administration and Configuration
+Connect-keynote_AI_demos,This repo contains AI demos from recently concluded Connect() 2017 keynote demos!
+sqlworkshops-template,Template for our courses
+vpn-libraries,"The VPN client libraries provide a reference implementation for a secure, encrypted tunnel for connected devices. Full Public report: https://research.nccgroup.com/2021/04/08/public-report-vpn-by-google-one-technical-security-privacy-assessment/"
+uwp-experiences,Universal Windows Platform (UWP) samples and showcases
+powerbi-client-react,Power BI for React which provides components and services to enabling developers to easily embed Power BI reports into their applications.
+Availability-Monitor-for-Kafka,"A tool to monitor Kafka availability and latency and report these metrics to SQL Server, JMX, CSV, SLF4J endpoints."
+iot-curriculum,"Hands on labs and content for students and educators to learn and teach the Internet of Things at schools, universities, coding clubs, community colleges and bootcamps"
+EmbeddedSocial-CSharp-API-Library,Library for interacting with the Microsoft Embedded Social API in your C# code.
+Multiverso,Parameter server framework for distributed machine learning
+InsiderDevTour18-ML,Getting started with machine learning session demos
+hidtools,Human Interface Device (HID) Tools for Windows and Devices
+AuthJanitor,"Manage the lifecycle of application tokens, keys, and secrets in Azure"
+fuzzer-test-suite,Set of tests for fuzzing engines
+project-freta,MSR Project Freta
+STRIDES,Supporting the Azure + NIH STRIDES initiative
+Spartan,Spartan: High-speed zkSNARKs without trusted setup
+Partner-Center-Java,Partner Center SDK for Java
+msticpy,Microsoft Threat Intelligence Security Tools
+MCAS,Powershell module for Microsoft Cloud App Security
+Reporting-Services-LoadTest,Reporting Services Load Test Project
+EA-VQ-VAE,"This repo provides the code for the ACL 2020 paper ""Evidence-Aware Inferential Text Generation with Vector Quantised Variational AutoEncoder"""
+arc-regex-line-length-linter,A configurable line length linter for use with Phabricator's arc command line tool.
+nel-collector,Network Error Logging (NEL) collector
+macops-molcertificate,Objective-C wrapper around SecCertificateRef
+MTC_WhackAMole.NET,.NET Core whack a mole 
+go-github,Go library for accessing the GitHub API
+powerbi-visuals-sankey,Sankey is a type of flow diagram in which the width of the series is in proportion to the quantity of the flow. Use it to find major contributions to an overall flow.
+CNTK-docker,Microsoft Cognitive Toolkit (CNTK) Docker Images
+cmockery,A lightweight library to simplify and generalize the process of writing unit tests for C applications.
+framer-x-fabric-ui,Fabric UI package for Framer X
+google-maven-parents,Automatically exported from code.google.com/p/google-maven-repository
+PLCrashReporter-Fork,A fork of PLCrashReporter. Use the official repo now instead.
+lsif-node,Define an index format for Language Servers
+mwx-teams-vaccine-attestation,"In response to the Covid-19 Attestation mandate for employees across the public sector and the private sector, an open-source Microsoft Teams vaccine attestation app."
+fluent-plugin-clouderametrics,Fluentd plugin for Cloudera metrics
+ps-rule,Validate infrastructure as code (IaC) and DevOps repositories using GitHub Actions.
+Tocino,NS3 Extensions to Simulate Direct Network Topologies
+adiantum,Adiantum and HPolyC specification and test vectors
+pytorch-luxor-lab,"""Solving problems with Deep Learning: an in-depth example using PyTorch and its ecosystem"" tutorial/lab"
+MicrosoftDefenderForEndpoint-API-Python,sample code to MicrosoftDefenderATP API
+rushstack-websites,Doc content for the Rush Stack websites.
+EarlGrey,:tea: iOS UI Automation Test Framework
+covid19-BackToWork,Code snippets for COVID-19 Back To Work solution
+google-api-cpp-client,The core C++ SK for using Google APIs
+FigmaSharp,Create apps with Figma
+sarif-js-sdk,"JavaScript code and supporting files for working with the 'Static Analysis Results Interchange Format' (SARIF, see https://github.com/oasis-tcs/sarif-spec)"
+MixedReality-Unreal-KippysEscape,"A fun, interactive, HoloLens 2 experience built with Unreal Engine and Mixed Reality UX Tools"
+commercial-marketplace-client-python,The Microsoft commercial marketplace SaaS offer billing SDK enables Partners and Startups to build the requirements for the implementation of transactable SaaS offers for both the AppSource and Azure Marketplaces. 
+keystone,A software architectural modeling tool for programmers.
+EasyRepro,Automated UI testing API for Dynamics 365
+AppliedRoboticsResearchLibrary,"From the Microsoft Applied Robotics Research team, this library is a collection of GitHub repositories containing software applications, data sets, and hardware reference designs to support research and education in the fields of service-robotics. Our team invites you to join us in research and engineering efforts that advance how robots can assist and augment the capabilities of human beings."
+keytransparency-java,The Java Client for Key Transparency
+InteractiveDataDisplay.WPF,"Interactive Data Display for WPF is a set of controls for adding interactive visualization of dynamic data to your application. It allows to create line graphs, bubble charts, heat maps and other complex 2D plots which are very common in scientific software. Interactive Data Display for WPF integrates well with Bing Maps control to show data on a geographic map in latitude/longitude coordinates. The controls can also be operated programmatically."
+GW-BASIC,The original source code of Microsoft GW-BASIC from 1983
+ethr,"Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP."
+OpticSim.jl,Optical Simulation software
+vsts-import-process-sample,Sample project on how to import a process template into Team Services using the REST APIs. This is only relevent if you have legacy xml implemented on your account.
+BPerf,BPerf is a Cloud Profiling system used by Bing.com based on CoreCLR Profiling APIs & Event Tracing for Windows.
+lz4s,A library/algorithm for enabling random access of compressed streams.
+surface-duo-oss-kernel.manifest,Surface Duo OSS kernel manifest
+robustdg,Toolkit for building machine learning models that generalize to unseen domains and are robust to privacy and other attacks. 
+bzip2-rpc,Experiments in converting bzip2 API to be RPC-based
+Loop-Sample-Trips-IOS,Loop SDK sample
+code-review-bot,Code review bot and CLA verifier
+mail2bug,"   Mail2Bug is a service that creates work-items in TFS (incl. VS Online) from an email, and keep the items updated with responses on the thread."
+Intune-Config-Frameworks,This repository of JSON files are used to create configuration frameworks to protect data and devices using App Protection Policies and mobile device compliance and configuration policies.
+FOST,"FOST is a general forecasting tool, which demonstrate our experience and advanced technology in practical forecasting domains, including temporal, spatial-temporal and hierarchical forecasting. Current general forecasting tools (Gluon-TS by amazon, Prophet by facebook etc.) can not process and model structural graph data, especially in spatial domains, also those tools suffer from tradeoff between usability and accuracy. To address these challenges, we design and develop FOST and aims to empower engineers and data scientists to build high-accuracy and easy-usability forecasting tools."
+azure-redcap-paas,Automated deployment of REDCap with Azure Blob storage as the storage back-end
+google-my-business-samples,Code samples in various languages for the Google My Business API.
+ReportingServicesTools,Reporting Services Powershell Tools
+TypeScript-React-Conversion-Guide,A guide for converting a simple JavaScript/React project to TypeScript. Contains both before an after code with the step-by-step process in the README below.
+azure-devops-python-samples,Python samples for interacting with and managing Azure DevOps
+SwitchML,Switch-based Training Acceleration for Machine Learning (SwitchML)
+StyleSwin,StyleSwin: Transformer-based GAN for High-resolution Image Generation
+Microsoft-Vision-Model,State-of-the-art pretrained vision model from Bing Multimedia
+earthengine-community,"Tutorials and content created by Earth Engine users, for Earth Engine users"
+SEAL-Embedded,A Microsoft-SEAL-compatible implementation of homomorphic encryption targeting Azure Sphere and other embedded devices.
+msr-cloak,"Code for experiments referenced in the Usenix Security 2017 paper ""Strong and Efficient Cache Side-Channel Protection using Hardware Transactional Memory"""
+execute-nested-binary,Executes a node binary from this folder or any parent
+WindowsProtocolTestSuites,⭐⭐Join us at SNIA EMEA SDC SMB3 IO Lab 2021 (6/7-6/9): 
+pblog,"Pblog is a small, low overhead, structured logging library"
+capirca,Multi-platform ACL generation system
+DevDay2020KeynoteDemoWin32,DevDay2020KeynoteDemoWin32
+TypeScript-Node-Starter,A reference example for TypeScript and Node with a detailed README describing how to use the two together.
+Get-ExchangeBuildNumber,You can search build numbers of Exchange Server.
+azure-percept-advanced-development,Azure Percept DK advanced topics
+Federal-Business-Applications,US Government Business Applications Demo Repository
+Windows-Time-Calibration-Tools,Window Tools for Calibrating Windows Time Service
+google-visualization-java,Automatically exported from code.google.com/p/google-visualization-java
+PINT,Securing platform software
+ax-2012-doc-tools,Repository of tools initially released with documentation with Microsoft Dynamics AX 2012 
+vcpkg-tool,Components of microsoft/vcpkg 's binary.
+CodeCity,Google's Code City is a social programming environment. It offers a comic book inspired virtual world where programmers can write code collaboratively.
+MTMBuddy,MTM Buddy is an accompanying tool for Microsoft Test Manager to provide advanced reporting and bulk updates
+posh-cef,Powershell module for creating Common Event Format (CEF) messages that adhere to the CEF specification
+MCW-OSS-DevOps,MCW OSS DevOps
+tfjs-mnist-workshop,E2E TensorFlow workshop from model training using Keras API all the way to visualization using TensorFlow.js
+vscode-ripgrep,For consuming the ripgrep binary from microsoft/ripgrep-prebuilt in a Node project
+vkb,Build scripts to build many bits of Vulkan together in one place.
+MCW-SAP-plus-extend-and-innovate,SAP plus extend and innovate
+layered-scene-inference,"Code accompanying the paper ""Layer-structured 3D Scene Inference  via View Synthesis"", ECCV 2018"
+debugpy,An implementation of the Debug Adapter Protocol for Python
+Gestures-Samples,Project Prague Code Samples
+shenzhen-go,Experimental visual Go environment
+webperftoolbar,A drop-in toolbar to help visualize a website's performance.
+appcenter,Central repository for App Center open source resources and planning.
+taco-simulate,Module to support Cordova plugin simulation in TACO CLI.
+PowerShell-FeatureFlags,PowerShell module containing a Feature Flags implementation based on a local config file.
+rpi-resources,A collection of tutorials and examples for the Raspberry Pi
+HybridRunbookWorkerConfig,Example Configuration to deploy Hybrid Runbook Worker
+windows-search,Issues-only repository for Windows Search
+monaco-json,Moved to https://github.com/microsoft/monaco-editor
+android-lint-performance-probe,A tool to help pinpoint performance bottlenecks in individual Android Lint checks.
+QuantumKatas,Tutorials and programming exercises for learning Q# and quantum computing
+uniflow-polymer,UniFlow for Polymer
+DLWorkspace,Deep Learning Workspace
+tensorflow-tools,A collection of manipulation tools for TensorFlow data.
+adfsAuthAdapters,External authentication adapters for AD FS
+Project_Natick_Analysis,GitHub Repository for Blogpost: Monitoring environmental conditions near underwater datacenters using Deep Learning
+opentest4j,Open Test Alliance for the JVM
+OLive,"OLive, meaning ONNX Runtime(ORT) Go Live, is a python package that automates the process of accelerating models with ONNX Runtime(ORT). It contains two parts including model conversion to ONNX with correctness checking and auto performance tuning with ORT. Users can run these two together through a single pipeline or run them independently as needed."
+OpenAPI.NET.CSharpAnnotations,Generates OpenAPI Document from C# Annotations
+powerbi-visuals-drilldown-choropleth,powerbi-visuals-drilldown-choropleth
+RockPaperScissorsLizardSpock,"Rock, Paper, Scissors, Lizard, Spock - Sample Application"
+Mezzurite,"Your components, timed."
+pxt-tilemaps,MakeCode Arcade extension for handling multiple tilemaps and extra tilemap blocks - beta
+IPC.Bond,IPC.Bond is an extension of IPC library that provides inter-process communication using shared memory on Windows with Bond serialization.
+orismologer,Orismologer is a network telemetry translation framework written in Go
+msphpsql,Microsoft Drivers for PHP for SQL Server
+docker-explorer,A tool to help forensicate offline docker acquisitions
+bonsai-viz-moab,This is a visualizer for the Moab simulator used within Bonsai.
+privGAN,PrivGAN: Protecting GANs from membership inference attacks at low cost
+TimeoutManager,A utility class for managing timeouts of items\requests
+fiddler-auth-sanitizer,Add-on for Telerik Fiddler to redact Authorization (and other) headers
+draft-irtf-cfrg-vrf,Verifiable Random Function
+Static-Module-Verifier,Static Module Verifier technology enables full module analysis using Microsoft Azure.
+FastTrack,GitHub home for Microsoft FastTrack
+keyczar,Easy-to-use crypto toolkit
+ai-edu,"AI education materials for Chinese students, teachers and IT professionals."
+PowerBI-visuals-TimeBrush,Time Brush custom visual for PowerBI
+Microsoft-MPI,Microsoft MPI
+image-sequencer,"Image Sequencer is an example application demonstrating the use of Imaging SDK’s Image Aligner and Gif Renderer APIs for creating cinemagraph-style animations in animated GIF format. The application has a set of hard coded image sequences to be used for basis of the alignment and animation. User can manipulate the animation by limiting the animated area to a small rectangular section, and by stabilizing the images in order to eliminate camera shake. Animations with still backgrounds and minor repeated movement are commonly called cinemagraphs."
+WinObjC-Samples,Sample apps and code for the Windows Bridge for iOS
+project-rome,Code samples and documentation of Microsoft's Project Rome SDK
+go-safeweb,Secure-by-default HTTP servers in Go.
+SNR,Style Normalization and Restitution for Domain Generalization and Adaptation
+Windows-appsample-annotated-audio,"A mini-app sample that demonstrates audio, ink, and OneDrive data roaming scenarios. This sample records audio, while allowing the synchronized capture of ink annotations, so that you can later recall what was being discussed at the time a note was taken. "
+VerifiableCredential-SDK-Android,An SDK to manage your Decentralized Identities and Verifiable Credentials.
+webbundle,WebBundle library for packing web sites
+react-native-svg-desktop,"SVG library for React Native, React Native Web, and plain React web projects."
+vscode-tas-vue,VS Code Try App Service Vue Template
+news-threads-client,The News Threads Client is a web application for exploring and tracing news provenance across time over a collection of documents.
+AirSim-Drone-Racing-VAE-Imitation,"Code associated with our paper ""Learning Visuomotor Policies for Aerial Navigation Using Cross-Modal Representations"": https://arxiv.org/abs/1909.06993"
+vsts-agent-docker,(Deprecated) VSTS agent Docker images
+sarif-python-om,Python classes for the SARIF object model
+homebrew-xpra,Homebrew tap for Xpra
+WhatTheHack-Advanced-Databricks-ML-Workshop,"Presented at Ready FY19 , refreshed for BUILD 2019 and Ready FY20, this repo follows the WhatTheHack workshop format"
+CBM,Cyclic Boosting Machines - an explainable supervised machine learning algorithm
+ExPerfWiz,"A PowerShell script to automate the collection of performance data from Exchange 2013, 2016 and 2019 servers."
+Windows-AppConsult-PWALab,Lab for building a PWA 
+Windows-tutorials-web,Provides code that supports Windows developer tutorials for web technologies.
+vscode-edge-devtools,"A VSCode extension that allows you to use browser devtools from within the editor. The devtools will connect to an instance of Microsoft Edge giving you the ability to alter CSS styling, perform diagnostics, and debugging. Get it now at http://aka.ms/devtools-for-code"
+agera,Reactive Programming for Android
+Office365NetworkTools,"A collection of tools, scripts, code and documentation for Office 365 Network Routing, Optimization and Monitoring. "
+ghc-source-gen,Library for generating Haskell source files and code fragments.
+archai,Reproducible Rapid Research for Neural Architecture Search (NAS)
+TestApi,"TestApi is a library of test and utility APIs that enables developers and testers to create testing tools and automated tests for .NET and Win32 applications. TestApi provides a set of common test building blocks -- types, data-structures and algorithms -- in a simple, layered, componentized and documented stack."
+Cognitive-LUIS-Android,"Android (Java) SDK for the Microsoft Language Understanding Intelligent Service API, part of Congitive Services"
+azuredatastudio-postgresql,azuredatastudio-postgresql is an extension for Azure Data Studio that enables you to work with PostgreSQL databases
+night-sight,This is a github to host the webpage for: Handheld Mobile Photography in Very Low Light
+ms-tpm-20-ref,Reference implementation of the TCG Trusted Platform Module 2.0 specification.
+crfs,CRFS: Container Registry Filesystem
+aiyprojects-raspbian," API libraries, samples, and system images for AIY Projects (Voice Kit and Vision Kit)"
+accessibility-insights-windows,Accessibility Insights for Windows
+IgniteTheTour,Microsoft Ignite The Tour
+NH4H-Gamification-React,Gamification component for hackathons
+sqldev,Source code for SQL Server and Azure SQL DB developer getting started tutorials: https://www.microsoft.com/en-us/sql-server/developer-get-started/ 
+Product-Recommendations,Product Recommendations solution
+powerbi-visuals-webpack-plugin,powerbi-visuals-webpack-plugin
+AISchoolTutorials,This repository contains the developer tutorials and samples to demonstrate how to create the experiments contained on AI Lab.
+InventorySample,Sample UWP application for LOB scenarios
+pgtoolsservice,PostgreSQL Tools Service that provides PostgreSQL Server data management capabilities.
+ProjectOxford-Apps-MimickerAlarm,Project Oxford Mimicker Alarm
+makerfaire-booth,Code snippets for the Maker Faire 2016 Installation.  This is not an official Google Product.
+BCTech,Business Central technology samples
+python-sample-vs-learning-flask,Sample to accompany Flask tutorial in the Visual Studio documentation
+uncertainty-baselines,High-quality implementations of standard and SOTA methods on a variety of tasks.
+clock,:clock4: Time utility with lovely mocking support
+ChoresIoT,IOT Trash Can Solution
+botframework-emulator-nightlies,Nightly releases of the Bot Framework Emulator (https://github.com/Microsoft/BotFramework-Emulator)
+Integration,"Public repository for Microsoft Integration open source samples, code and tools"
+cartoonset,Code for the Cartoon Set webpage. 
+STL,MSVC's implementation of the C++ Standard Library.
+cds-management-api-node,Online Management API for Common Data Service for Node.js
+SGN,This is the implementation of CVPR2020 paper “Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition”.
+sahay-app-toolkit,React-native toolkit with a suite of UI components for building content-heavy mobile apps.
+eventtracing-processing,Issues for the Microsoft.Windows.EventTracing.Processing.All NuGet package
+SmartKC-A-Smartphone-based-Corneal-Topographer,This is the official implementation for the SmartKC project. SmartKC is a smartphone based corneal topographer.
+vsts-extension-multivalue-control,A work item form control which allows selection of multiple values.
+o3dtoydefense,Automatically exported from code.google.com/p/o3dtoydefense
+jacdac-dotnet,Jacdac .NET library
+mwt-ds-explore-csharp,Exploration Library in C#
+vsts-cordova-tasks,"Streamline CI setup for your Apache Cordova, PhoneGap, Ionic, or Cordova CLI compatible app using a set of useful pre-defined build steps for VS Team Services or TFS"
+shaderc-rs,Rust bindings for the shaderc library.
+MRLightingTools-Unity,A Unity library and MRTK extension for estimating and replicating the current environment's lighting on Mixed Reality devices.
+CSU-AzureLabs,Hands on labs
+mannequinchallenge,"Inference code and trained models for ""Learning the Depths of Moving People by Watching Frozen People."""
+google-api-javascript-client,"Google APIs Client Library for browser JavaScript, aka gapi."
+hotel-booking-api-validator,Utility to assist partner develop and test their Book on Google API integration.
+BotBuilder-Samples,"Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!"
+Cognitive-Recommendations-Windows,Repo
+mwx-teams-spo-nav,Adds navigation back into SharePoint sites embedded in Microsoft Teams
+applicationinsights-channel-js,This extension prepares and sends telemetry to the Application Insights ingestion endpoint.
+DTrace-on-Windows,"Code for the cross platform, single source, OpenDTrace implementation"
+AirSim-NeurIPS2019-Drone-Racing,"Drone Racing @ NeurIPS 2019, built on Microsoft AirSim"
+fhir-server-samples,Samples for Microsoft FHIR Server for Azure
+Forerunner,Forerunner: Constraint-based Speculative Transaction Execution for Ethereum
+botframework-webchat-chat-adapter,Chat adapters for Bot Framework Web Chat
+debiasing-item2item,"Implementation of ""Debiasing Item-to-Item Recommendations With Small Annotated Datasets"" (RecSys '20)"
+cap-library,Common Alerting Protocol Library
+Cognitive-LUIS-Python,"Python SDK for the Microsoft Language Understanding Intelligent Service API, part of Cognitive Services"
+pxt-ev3-chassis,Chassis support for MakeCode for LEGO MINSTORMS EV3
+PowerBI-Developer-Samples,A collection of Power BI samples for developer use.
+PowerBI-Node,Node SDK and client library for Power BI REST APIs.
+DWriteShapePy,Python extension for streamlined DirectWrite text shaping. 
+pxt-automation,Various algorithm to control things
+AppInsights.EnterpriseTelemetry.AspNetCore.Extension,Library for capturing enterprise level telemetry in an Web application built on ASP.NET Core 2 and above
+vscode-smoketest-check,A test extension used for smoke testing VS Code Extensions UI
+RServer-for-HDInsight-example-CriteoDataSet,This repo contains a walkthrough of how to use RServer for HDInsight with large data sets like Criteo.
+clerk,Clerk is an open-source IPFIX generator using https://github.com/google/testimony for packet sniffing
+paco,The Paco behavioral science mobile research platform
+ignite-learning-paths-training-apps,"Microsoft Ignite Learning Path, Train the Trainer materials: Developing Cloud Native Applications"
+ai-utilities,SAMPLE: Microsoft AI Azure Machine Learning Utilities and Wrappers.
+azure-devops-extension-tasks,Pipeline tasks for Azure DevOps Extensions
+BANG,"BANG is a new pretraining model to Bridge the gap between Autoregressive (AR) and Non-autoregressive (NAR) Generation. AR and NAR generation can be uniformly regarded as to what extent previous tokens can be attended, and BANG bridges AR and NAR generation by designing a novel model structure for large-scale pretraining. The pretrained BANG model can simultaneously support AR, NAR and semi-NAR generation to meet different requirements."
+ignite-learning-paths-training,Ignite Learning Path Training
+lasr,"Code for ""LASR: Learning Articulated Shape Reconstruction from a Monocular Video"". CVPR 2021."
+hdfs-mount,A tool to mount HDFS as a local Linux file system
+FLAML,A fast library for AutoML and tuning.
+CsWinRT,C# language projection for the Windows Runtime
+Imagine_bee-control,"Get the assets and code here, and then follow our Bee Control tutorial to learn more about how to work with Unity, C#, and Visual Studio to complete this game! Microsoft Imagine connects you with the tools and knowledge you need to create, code, and develop your ideas. http://imagine.microsoft.com"
+Windows-Sandbox-Utilities,A public repository for useful developments surrounding Windows Sandbox
+ServiceFabricDSC,Desired State Configuration module for Service Fabric
+nova-facade,"Runtime support for the. JS Nova pattern, which allows sharing of High-Value-Components across M365"
+cordova-plugin-ms-appinsights,Cordova plugin for App Insights
+generator-azuresfcontainer,Yeoman generator for scaffolding Azure Service Fabric Container projects
+assertor,Fluent assertion library for Rust with readable messages.
+PartsUnlimitedMRPmicro,"A microservices-based application using entirely open source software including Docker, Kubernetes, Java, Apache, Hystrix, and MongoDB which creates a web front end and 5 supporting microservices."
+W32Time,This repo provides resources for high accuracy time on Windows
+dropzone-polyfill,Polyfill for the removed HTML5 dropzone attribute
+vscode-azureappservice,Azure App Service extension for VS Code
+copper,Copper is a module aimed at providing low-level hardware abstraction layers (HAL) as Python modules.
+PowerApps-Samples,"Sample code for Power Apps, including Dataverse, model-driven apps, canvas apps, Power Apps component framework, portals, and ai-builder."
+omnichannel-chat-sdk,Headless Chat SDK to build your own chat widget against Dynamics 365 Omnichannel Services.
+emboss,Emboss is a tool for generating code that reads and writes binary data structures.
+usbmon,List and monitor USB devices connected to Linux host. Also as Collectd plugin.
+BuildUpToDateChecker,Performs a fast check of MSBuild projects to see if they are up to date or if they require a rebuild. This helps locate overbuilding scenarios.
+gwtmockito,Better GWT unit testing
+sarif-website,"SARIF web assets, including web controls, public site, etc."
+jackknife-variational-inference,"Demonstration of Jackknife Variational Inference for Variational Autoencoders, related to ICLR 2018 paper."
+uf2-linux,UF2 flashing support for Linux (Raspberry Pi Zero)
+re2d,D language binding of RE2 regex engine.
+IEDiagnosticsAdapter,IE Diagnostics Adapter is a standalone exe that enables tools to debug and diagnose IE11 using the Chrome remote debug protocol. 
+lets-talk-mental-health,Let's Talk---A mental health app. Collaborative project with Microsoft Research India and National Institute of Mental Health and Neurosciences (NIMHANS)
+gatk4-cnn-variant-filter-azure,Workflow that takes advantage of GATKs CNN tool which is a deep learning approach to filter variants based on Convolutional Neural Networks
+VisionLongformerForObjectDetection,Vision Longformer For Object Detection
+MixedReality-Unreal-HoloPipes,"The classic pipes puzzle game, built for HoloLens 2 with Unreal Engine"
+escapevelocity,A subset reimplementation of Apache Velocity with a much simpler API.
+nav-docker,"Official Microsoft repository for Dynamics NAV in Docker resources. It has not been decided yet, to which extend Microsoft will ship Docker images with NAV, so everything in this repo is work in progress and might be subject to deletion."
+onnxruntime-inference-examples,Examples for using ONNX Runtime for machine learning inferencing.
+PowerBI-visuals-sampleBarChart-react,power bi sample bar chart custom visual based on reactJS
+IIS.Setup,Utility library for building installers for IIS modules
+vscode-azure-pack,A collection of extensions for working with Azure resources in VS Code
+auto,A collection of source code generators for Java.
+dart-sync-webdriver,WebDriver API for Dart
+clusterfuzzlite,ClusterFuzzLite - Simple continuous fuzzing that runs in CI.
+ring-operator,A Kubernetes operator for releasing services with user-based routing 
+vs-boost-unit-test-adapter,Visual Studio extension that enables testing tools with unit tests written for Boost.Test.
+hrx-ruby,A Ruby implementation of the HRX format
+RTVS-docs,RTVS documentation and samples
+HarReplayer,A proxy server that replays responses from HTTP archive (HAR) files
+process-customization-scripts,sample scripts for customers who are exporting and importing process templates to/from TFS
+chromeos-filesystems,Additional file system providers for Chrome OS
+onefuzz-samples,Sample CICD Pipelines for OneFuzz
+MTC_ModernSharePointWorkshop,MTC_ModernSharePointWorkshop
+tilecode,"Design, Code and Play Games on MakeCode Arcade Devices"
+TypeScript-Knockout-Starter,A starter template for TypeScript and Knockout.
+powerbi-visuals-utils-svgutils,SVG utility interfaces for creating powerbi custom visuals
+donuts.node,Sweet libraries for node.js.
+moodle-local_onenote,OneNote Local plugin for Moodle LMS
+uv-metrics,Composable metric reporters in Python.
+factored-segmenter,Unsupervised factor-based text tokenizer for natural-language processing applications
+vscode-jvm-tools,JVM Tools Extension for VS Code
+supersonic,"Supersonic is an ultra-fast, column oriented query engine library written in C++"
+mfit,Memory Fault Injection Tool
+distributed_word_embedding,Distributed word embedding
+vscode-java-installer,Issue Only. This repo is for reporting VS Code Java Installer issues.
+isa-vae,Lp-nested priors for learning disentangled representations with variational autoencoders
+vscode-vs-keybindings,Visual Studio Keymap for Visual Studio Code
+FormatPowerShellToMarkdownTable,Format PowerShell object to Markdown table
+arcade-forest-fire,An extension for MakeCode Arcade that simulates the spread of forest fires
+facebook-ios-sdk,Used to integrate the Facebook Platform with your iOS & tvOS apps.
+lovefield,"Lovefield is a relational database for web apps. Written in JavaScript, works cross-browser. Provides SQL-like APIs that are fast, safe, and easy to use."
+uf2,UF2 file format specification
+robolectric,Android Unit Testing Framework
+node-spdlog,Spdlog bindings for Node.JS
+TeamCloud-Providers,Providers for TeamCloud.
+vscode-windows-registry,Native node module to access the Windows Registry
+MixedRealityCompanionKit,This is a MixedRealityToolkit style repository for code bits and components that may not run directly on Microsoft HoloLens or immersive headsets but instead pair with them to build experiences.
+harpia,Inhouse Kubernetes Cluster
+PowerBI-visuals-forcasting-tbats,Forcasting tbats
+gnxi,gNXI Tools - gRPC Network Management/Operations Interface Tools
+DevCookbook,An open source cookbook for everyone!
+vscode-iot-workbench,Azure IoT Device Workbench for Visual Studio Code
+X-Mem,Extensible Memory Benchmarking Tool
+chatbase-python,Integrate your Python application with Chatbase!
+Docker-PowerShell,PowerShell Module for Docker
+java-example-fraud-score,"Example use of DeployR as a real-time, R analytics scoring engine."
+ailab,"Experience, Learn and Code the latest breakthrough innovations with Microsoft AI"
+MicrosoftStreetsidePlugin,Microsoft Streetside Plugin
+KubeGPU,A GPU / device extension framework for Kubernetes
+ELL-notebooks,ELL notebooks
+mixer-cuckoo,C# cuckoo filters
+CodeMixed-Text-Generator,This tool helps automatic generation of grammatically valid synthetic Code-mixed data by utilizing linguistic theories such as Equivalence Constant Theory and Matrix Language Theory.
+MinIoC,Single-file minimal C# IoC container
+MCW-Serverless-architecture,MCW Serverless architecture
+vscode-languageserver-protocol-foldingprovider,Proposed extension to the language server protocol: folding provider 
+kuduraft,A Raft Library in C++ based on the Raft implementation in Apache Kudu
+amp-toolbox, A collection of AMP tools making it easier to publish and host AMP pages. 
+types-publisher,This repo has moved:
+dicomParser,JavaScript parser for DICOM Part 10 data
+cascadia-code,"This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal."
+powerbi-visuals-mekkochart,"A Mekko chart is a mix of a 100% stacked column chart and a 100% stacked bar chart combined into one view. Similar to a treemap, the dimensional values are represented by length and width of each rectangle. The width of a column is proportional to the total value of the column."
+react-native-gallery,This repo contains the react-native Gallery app created by Microsoft
+Dynamics-AX-Extensible-Control-Samples,"Sample code and tutorials for building extensible controls for Microsoft Dynamics AX. Includes code samples for AX Forms, AX Tables, AX Classes, and AX Resources (HTML/JS/CSS)."
+paramgmt,A parallel SSH-based remote machine management system
+radioreceiver,An application to listen to broadcast stereo FM and AM radio from your Chrome browser or your ChromeBook computer using a $15 USB digital TV tuner.
+PhETOfficeAddIn,Sample Add-in for Office showing a content browsing and selection experience using simulations from the PhET Interactive Simulations project.
+node-request-light,A light weight nodejs request library with proxy support. Intended to be used by VSCode extensions
+Multi_Species_Bioacoustic_Classification,Multi-species bioacoustic classification using deep learning algorithms
+securitydev,"Build connected security experiences. Starting point to share code, libraries, notebooks, workbooks, and queries for connected experiences"
+k12,Content for K-12 educators interested in using Azure with their students.
+MSMARCO-Question-Answering,MS MARCO(Microsoft Machine Reading Comprehension) is a large scale dataset focused on machine reading comprehension and question answering
+vmss-distribute-unique-certificates,Example Python / C# project that generates a unique certificate per Linux VM in a VM Scale Set and stores certs in KeyVault.
+azure-pipelines-artifact-caching-tasks,Azure Pipelines Tasks to cache intermediate artifacts from build (e.g. resolved node packages)
+mls-excel-app,Microsoft Machine Learning Server Excel Add-in
+microbit-chrome,Prototype chrome addon that exposes the micro:bit's serial output to webpages.
+timecast,"Performant, composable online learning"
+license-checker-webpack-plugin,"Webpack plugin that verifies licenses of all external dependencies in a compilation, and outputs them to a file."
+vae-seq,Variational Auto-Encoders in a Sequential Setting.
+adfsOpenSource,Documentation and guidance for ADFS Open Source
+vProfiler,A tool which can automatically collect all the system diagnosis information for a Hyper-V Linux guest.
+learntogether-devappsforteams,"Currently, there are 115+ million Teams daily active users. That is millions of new users that developers can reach when they develop apps for Teams. Join us on Learn TV (http://aka.ms/learntv) for a free two-hour livestream event for developers by developers. Let's talk app dev for Microsoft Teams. Visit http://aka.ms/learntogether to learn more!"
+photo-inspector,Photo Inspector is an example application on how to capture and process high resolution photos (resolution depends on device hardware).
+cardboard-circuits,DIY electronic modules for tinkerers
+moc-sdk-for-go,AzureStackHCI Cloud SDK for GoLang
+azure-mobile-apps-with-ionic,Ionic template integrated with Azure mobile app services
+Angara.Flow,"A .NET framework for composing, evaluating, inspecting and persisting computational experiments which are represented as a dataflow."
+surface-duo-sdk-samples,Samples for Surface Duo SDK
+VisualProfiler-Unity,"The VisualProfiler provides a drop in, single file, solution for viewing your Windows Mixed Reality Unity application's frame rate and memory usage."
+OctoPrint-HeaterTimeout,OctoPrint Plugin that automatically shuts down heaters after a specified idle timeout.
+win_pmu,example PMU event counting mode tool
+PHP-Window-Tests,Test and Build tools for PHP on Windows
+HaDes,Token-level Reference-free Hallucination Detection
+ApplicationInsights-dotnet,ApplicationInsights-dotnet
+BotBuilder-V3,Microsoft Bot Builder V3 SDK for Microsoft Bot Framework
+go-structeditor,User interface library for editing arbitrary Go structures using a UI rendered in HTML.
+Windows-IoT-Samples,This is the official repo for samples targeting Windows IoT
+DialoGPT,Large-scale pretraining for dialogue
+snipe-it-cookbook,A Chef cookbook to configure and install Snipe-IT
+RIoT,"Robust Internet of Things, Microsoft Research"
+iconvg,"IconVG is a compact, binary format for simple vector graphics: icons, logos, glyphs and emoji."
+powerbi-visuals-utils-dataviewutils,data view utility interfaces for creating powerbi custom visuals
+ohmu,Compiler intermediate language for static analysis.
+pxt-blockly,Blockly (Microsoft MakeCode fork)
+hrx,HRX (Human-Readable Archive): a plain text archive format
+tempeh,tempeh is a framework to TEst Machine learning PErformance exHaustively which includes tracking memory usage and run time.
+LIS3.5,Development drivers for Linux Integration Services
+iomt-fhir-client,The IomtFhirClient Swift library simplifies sending IoMT (Internet of Medical Things) data to an IoMT FHIR Connector for Azure endpoint.
+Linux-CommA,The Linux Commit Analyzer tracks patches from upstream and downstream kernels.
+ApplicationInsights-JS-Mezzurite,Application insights extension of Mezzurite
+Xbox-GDK-Samples,Game development samples published by the Xbox Advanced Technology Group using the Microsoft GDK.
+graphics-driver-samples,This repository contains graphics driver samples used to demonstrate how to write graphics driver for the windows platform.
+prometheus-slo-burn-example,"An end to end example of implementing SLOs with prometheus, grafana and Go."
+update-client-server-sync,Provide a C# implementation (.NET Core) of the Microsoft Update Client-Server sync protocol.
+Microsoft-365-Defender-Hunting-Queries,Sample queries for Advanced hunting in Microsoft 365 Defender
+pbuild,Private (developer) build system
+vsminecraft,Visual Studio extension for developing MinecraftForge mods using Java.
+etl2pcapng,Utility that converts an .etl file containing a Windows network packet capture into .pcapng format.
+systemjs,A minimal System loader
+vscode-markdown-tm-grammar,VS Code built-in markdown extension's Textmate grammar
+mesos,Links and documentation for Mesos work at Microsoft
+deep-space,Sample web application written in Java and uses AngularJS.
+WingTipTickets,Azure SQL Database WingTipTickets demo and hands on lab
+data-in-use-protection-workshop,A complete workshop content with a series of tracks and hands-on labs on various techniques to protect data in use.
+pxt-calliope-core,PXT gluing code for calliope
+playwright-cli,"CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots."
+material-design-icons,Material Design icons by Google
+visqol,Perceptual Quality Estimator for speech and audio
+ProtocolTestFramework,"⭐⭐Join us at Remote Desktop Protocols IO Lab Online (1/11-1/14, 2021): "
+vscode-codicons,The icon font for Visual Studio Code
+hangouts-chat-bot-cloud-function-nodejs-example,Example of a Hangouts Chat Bot on Google Cloud Functions
+vscode-nsfw,"A super fast and scaleable file watcher that provides a consistent interface on Linux, OSX and Windows"
+AppSource,"Build a Test Drive solution to allow customers to try before they buy your product. This repository contains a development helper tool to help build, test, and debug your test drive."
+datadrivenmodel,Build sim from data for use in reinforcement learning and bonsai platform for machine teaching. 
+ts-bridge,Time Series Bridge: a tool to import metrics from one monitoring system to another
+Ax,Adaptive Experimentation Platform
+AddOutlookJapanHoliday,VBScript for adding Japan new Holidays to Outlook.
+azureml-ops-accelerator,"Guided accelerator consolidating best practice patterns, IaaC and AML code artefacts to provide a reference approach to implementing MLOps on Azure leveraging Azure ML. "
+comid,CodeMirror in Dart
+solitaire-wp,Solitaire game example developed with XNA Game Studio for Windows Phone 7.
+vscode-editorconfig,[DEPRECATED] .editorconfig extension for Visual Studio Code 
+aksworkshop,Azure Kubernetes Service (AKS) workshop website content
+easybundler,A code generator for Android Bundles
+csa-misc-utils,"Miscellaneous samples, documents, how-tos, utilities, scripts, and other CSA tidbits"
+FluentDarkModeKit,A library for backporting Dark Mode in iOS
+AMBROSIA,Robust Distributed Programming Made Easy and Efficient
+SmartHotel360-IoT,SmartHotel360 deployed Azure digital Twins to control lights and temperature of the hotel rooms.
+WinAppDriver,Windows Application Driver
+dotnet-core-sample-templates,Sample templates for deploying .Net Core application in Azure.
+Windows-universal-samples,API samples for the Universal Windows Platform.
+snipe-it-api-cookbook,A Chef resource cookbook for interacting with Snipe-IT's REST API
+android-classyshark,Android and Java bytecode viewer
+Quantum-Safe-OpenSSH,Quantum Safe OpenSSH
+dart-emacs-plugin-unsupported,Unsupported
+vscode-mssql,Visual Studio Code SQL Server extension.
+typescript-template-language-service-decorator,Framework for decorating a TypeScript language service with additional support for languages embedded inside of template strings
+cpu_features,A cross platform C99 library to get cpu features at runtime.
